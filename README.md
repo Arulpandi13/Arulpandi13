@@ -1,5 +1,5 @@
 ![logo](https://github.com/Arulpandi13/Arulpandi13/blob/main/ARUL%20PANDI%20S.jpg)
-<h1 align="center">Hi 👋, I'm Arul pandi S</h1>
+<h1 align="center">Hi 👋, I'm Full-stack Developer </h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
